@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I’m @gustiayuistr
+
+👀 I’m interested in Software Quality Assurance and Front-End Web Development  
+🌱 Currently learning JavaScript
+
+---
+
+Feel free to explore my repositories and projects!
+
 
 <!--
 **gustiayuistrb/gustiayuistrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
