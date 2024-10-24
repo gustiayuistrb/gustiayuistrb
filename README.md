@@ -3,9 +3,6 @@
 👀 I’m interested in Software Quality Assurance and Front-End Web Development  
 🌱 Currently learning JavaScript
 
----
-
-Feel free to explore my repositories and projects!
 
 
 <!--
