@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @gustiayuistrb
 
-👀 I’m a keen learner in Software Quality Assurance and Front-End Web Development.
-🌱 Currently familiar with Manual Testing, WebDriverIO using Javascript, Mocha Chai, SQL, Postman, Agile, Trello, Allure, Excel, Appium, and Katalon.
+👀 I’m a keen learner in Software Quality Assurance and Front-End Web Development.  
+🌱 Currently familiar with Manual Testing, WebDriverIO (JavaScript), Mocha & Chai, SQL, Postman, Agile, Trello, Allure, Excel, Appium, and Katalon.
 
 
 
