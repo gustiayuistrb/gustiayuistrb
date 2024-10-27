@@ -1,7 +1,7 @@
-# 👋 Hi, I’m @gustiayuistr
+# 👋 Hi, I’m @gustiayuistrb
 
-👀 I’m interested in Software Quality Assurance and Front-End Web Development  
-🌱 Currently learning JavaScript
+👀 I’m a keen learner in Software Quality Assurance and Front-End Web Development.
+🌱 Currently familiar with Manual Testing, WebDriverIO using Javascript, Mocha Chai, SQL, Postman, Agile, Trello, Allure, Excel, Appium, and Katalon.
 
 
 
